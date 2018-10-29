@@ -4,7 +4,7 @@
 
 def dynamic(a):
     if a > 0:
-        print("Passed \n\n")
+        print("\n\n@@@@ @@@ @@@ Passed @@@ @@@ @@@@\n\n")
     else:
         print("3"+a)
 
